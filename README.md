@@ -19,6 +19,6 @@ I work with a variety of tools and technologies in the realm of urban design, in
 ## 🌐 Get in Touch
 
 Let's connect and explore the world of urban design together!
-- Twitter: [Your Twitter Handle](https://x.com/Professor_Koa?t=J4H-RsQWKl5O7l7i2ATCmA&s=09)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/johnpaul-dacara-a8a63a191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Website: [Your Personal Website/Blog](https://www.yourwebsite.com)
+- Twitter: (https://x.com/CryptoLex01?s=09))
+- LinkedIn: (https://www.linkedin.com/in/johnpaul-dacara-a8a63a191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Website: ([https://www.yourwebsite.com](https://t.me/professorkoa))
