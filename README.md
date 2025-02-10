@@ -1,24 +1,16 @@
-# 👋 Hello, I'm [Johnpaul Dacara!
+﻿# Jdacara's Portfolio
 
-I am passionate about urban design and its impact on communities. This GitHub is a space where I share my thoughts, projects, and explorations in the realm of urban planning and design.
+Welcome to my GitHub portfolio! Here you'll find some of my projects and contributions.
 
-## 🏙️ About Me
+<div align="center">
 
-- 👨‍💼 Urban planner and designer
-- 🌱 Advocate for sustainable and inclusive urban spaces
-- 📚 Constant learner and sharer of knowledge
-- 🌍 Committed to creating better living environments for all
+![github contribution grid snake animation](https://raw.githubusercontent.com/Zlkcyber/Zlkcyber/main/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Zlkcyber/Zlkcyber/main/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## 🔧 Technologies & Tools
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Zlkcyber&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlkcyber&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Zlkcyber&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Zlkcyber&style=for-the-badge&color=orange">
+</div>
 
-I work with a variety of tools and technologies in the realm of urban design, including:
-- 🏗️ CAD & GIS software
-- 🌿 Sustainability analysis tools
-- 📊 Data visualization platforms
-
-## 🌐 Get in Touch
-
-Let's connect and explore the world of urban design together!
-- Twitter: (https://x.com/CryptoLex01?s=09))
-- LinkedIn: (https://www.linkedin.com/in/johnpaul-dacara-a8a63a191?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Website: ([https://www.yourwebsite.com](https://t.me/professorkoa))
