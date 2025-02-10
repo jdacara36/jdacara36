@@ -13,3 +13,15 @@ Welcome to my GitHub portfolio! Here you'll find some of my projects and contrib
   <br>
   <img src="https://komarev.com/ghpvc/?username=Jdacara36&style=for-the-badge&color=orange">
 </div>
+
+## Projects
+
+
+## Contributions
+
+- [Dimension](https://github.com/dymensionxyz/rollapp-registry): Dimension
+- [Anoma-Shielded-Expedition](https://github.com/anoma/namada-shielded-expedition): namada SE
+
+## Contact
+
+You can reach me at [admin@Jdacara36.tech](nicoledacara24@gmail.com).
